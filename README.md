@@ -23,10 +23,12 @@ These instructions are for T2 Macs only. These instructions don't apply to non-T
 12. Type csrutil disable && csrutil authenticated-boot disable
 <img width="5712" height="4284" alt="IMG_0220" src="https://github.com/user-attachments/assets/6fcb6447-524d-40ac-bef0-5a436b2852cf" />
 13. Click on Apple Logo > Restart
+
 14. Hold option key
+
 15. Choose EFI boot
 <img width="2100" height="1576" alt="IMG_0221" src="https://github.com/user-attachments/assets/1ad19aed-6b1e-4174-87c5-13db0dc02f40" />
-16. Select Install macOS
+17. Select Install macOS Tahoe or the version of your choice
 <img width="2100" height="1576" alt="IMG_0222" src="https://github.com/user-attachments/assets/dded1c8d-f7c4-4d5d-947f-4025535ff5d3" />
 
 

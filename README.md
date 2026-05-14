@@ -1,8 +1,9 @@
 # OpenCore-Legacy-Patcher-T2-Instructions-for-T2-Macs
 These instructions are for T2 Macs only. These instructions don't apply to non-T2 Macs.
 1. Once you reach Reboot to apply:
-<img width="409" height="456" alt="Bildschirmfoto 2026-05-11 um 11 24 07" src="https://github.com/user-attachments/assets/2bc89409-6551-4f28-b472-843e9feabb40" />
+<img width="372" height="482" alt="image" src="https://github.com/user-attachments/assets/6eda34be-65a4-454d-b904-9c3217db5d66" />
 2. Click on Reboot
+
 3. Click on Neu starten / Restart
 <img width="563" height="286" alt="image" src="https://github.com/user-attachments/assets/696ac25f-5ae9-4cfb-bbdb-1e226b0fd15a" />
 4. Once the screen becomes black, prepare your fingers to hold command-R
@@ -28,7 +29,7 @@ These instructions are for T2 Macs only. These instructions don't apply to non-T
 
 15. Choose EFI boot
 <img width="2100" height="1576" alt="IMG_0221" src="https://github.com/user-attachments/assets/1ad19aed-6b1e-4174-87c5-13db0dc02f40" />
-17. Select Install macOS Tahoe or the version of your choice
+16. Select Install macOS Tahoe or the version of your choice
 <img width="2100" height="1576" alt="IMG_0222" src="https://github.com/user-attachments/assets/dded1c8d-f7c4-4d5d-947f-4025535ff5d3" />
 
 If you see a kernel panic or stall at the Apple logo, you should definately report what kernel panic appears or the stall here: https://github.com/albert-mueller/OpenCore-Legacy-Patcher-T2/issues 

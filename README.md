@@ -22,7 +22,7 @@ These instructions are for T2 Macs only. These instructions don't apply to non-T
 11. Go to Dienstprogramme / Utilities > Terminal
 <img width="2100" height="1576" alt="IMG_0218" src="https://github.com/user-attachments/assets/3016daca-f94d-41df-9380-04411a10320a" />
 12. Type csrutil disable && csrutil authenticated-root disable
-<img width="5712" height="4284" alt="IMG_0220" src="https://github.com/user-attachments/assets/6fcb6447-524d-40ac-bef0-5a436b2852cf" />
+
 13. Click on Apple Logo > Restart
 
 14. Hold option key

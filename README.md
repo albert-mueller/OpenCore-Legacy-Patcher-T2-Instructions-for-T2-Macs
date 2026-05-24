@@ -1,4 +1,5 @@
 # OpenCore-Legacy-Patcher-T2-Instructions-for-T2-Macs
+To be able to boot OpenCore, you'll need to disable Secure Boot and System Integrity Protection on T2 Macs. Why disable? Because, T2 Macs don't trust OpenCore, and Secure Boot blocks OpenCore. And SIP being disabled is absolutely required to boot the installation media too. If T2 Macs were trusting any boot manager, they could trust a malicious boot manager, which is a high security risk.
 These instructions are for T2 Macs only. These instructions don't apply to non-T2 Macs.
 1. Once you reach Reboot to apply:
 <img width="372" height="482" alt="image" src="https://github.com/user-attachments/assets/6eda34be-65a4-454d-b904-9c3217db5d66" />

@@ -23,7 +23,7 @@ These instructions are for T2 Macs only. These instructions don't apply to non-T
 <img width="2100" height="1576" alt="IMG_0218" src="https://github.com/user-attachments/assets/7609949e-608d-4a00-80f9-ff13cfc3500a" />
 11. Go to Dienstprogramme / Utilities > Terminal
 <img width="2100" height="1576" alt="IMG_0218" src="https://github.com/user-attachments/assets/3016daca-f94d-41df-9380-04411a10320a" />
-12. Type csrutil disable && csrutil authenticated-root disable && csruitil authenticated-boot disable
+12. Type csrutil disable && csrutil authenticated-root disable
 <img width="5712" height="4284" alt="IMG_0239" src="https://github.com/user-attachments/assets/82ff1341-ea15-478b-ba9a-008cf7b9094b" />
 
 13. Click on Apple Logo > Restart

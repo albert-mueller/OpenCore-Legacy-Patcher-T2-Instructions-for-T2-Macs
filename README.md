@@ -35,6 +35,11 @@ These instructions are for T2 Macs only. These instructions don't apply to non-T
 16. Select Install macOS Tahoe or the version of your choice
 <img width="2100" height="1576" alt="IMG_0222" src="https://github.com/user-attachments/assets/dded1c8d-f7c4-4d5d-947f-4025535ff5d3" />
 
+16. Click on space
+17. Using the arrow keys, select Reset NVRAM and hit Enter
+18. Now, the system will restart
+19. Now select Install macOS with the arrow keys and hit Enter
+
 If you see a kernel panic or stall at the Apple logo, you should definately report what kernel panic appears or the stall here: https://github.com/albert-mueller/OpenCore-Legacy-Patcher-T2/issues or the affected repository if using a fork instead.
 
 

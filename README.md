@@ -7,7 +7,7 @@ This guide applies to the following Macs only:
 - MacBook Pro 2018
 - MacBook Pro 2019
 - MacBook Pro 2020 (Intel)
-- iMac Pro 2016
+- iMac Pro 2017
 
 To be able to boot OpenCore, you'll need to disable Secure Boot and System Integrity Protection on T2 Macs. Why disable? Because, T2 Macs don't trust OpenCore, and Secure Boot blocks OpenCore. And SIP being disabled is absolutely required to boot the installation media too. If T2 Macs were trusting any boot manager, they could trust a malicious boot manager, which is a high security risk.
 

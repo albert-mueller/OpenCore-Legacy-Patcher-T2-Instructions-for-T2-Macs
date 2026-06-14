@@ -1,5 +1,13 @@
 # OpenCore Legacy Patcher T2 Instructions for T2 Macs only
-This guide is only for T2 Macs. If you are using a non-T2 Mac, then this guide is not for you.
+This guide applies to the following Macs only:
+- iMac 2020
+- MacBook Air 2018
+- MacBook Air 2019
+- MacBook Air 2020
+- MacBook Pro 2018
+- MacBook Pro 2019
+- MacBook Pro 2020
+- iMac Pro 2016
 
 To be able to boot OpenCore, you'll need to disable Secure Boot and System Integrity Protection on T2 Macs. Why disable? Because, T2 Macs don't trust OpenCore, and Secure Boot blocks OpenCore. And SIP being disabled is absolutely required to boot the installation media too. If T2 Macs were trusting any boot manager, they could trust a malicious boot manager, which is a high security risk.
 

@@ -50,5 +50,4 @@ These instructions are for T2 Macs only. These instructions don't apply to non-T
 18. Now, the system will restart
 19. Now select Install macOS with the arrow keys and hit Enter
 
-If you see a kernel panic or stall at the Apple logo, you should definately report what kernel panic appears or the stall here: https://github.com/albert-mueller/OpenCore-Legacy-Patcher-T2/issues or the affected repository if using a fork instead. And if you have already erased your drive, I recommend to downgrade after reporting the kernel panic: https://github.com/albert-mueller/OpenCore-Legacy-Patcher-T2/discussions/84
-
+If you see a kernel panic or stall at the Apple logo, you should definately report what kernel panic appears or the stall here: https://github.com/albert-mueller/OpenCore-Legacy-Patcher-T2/issues or the affected repository if using a fork instead. And if you have already erased your drive, I recommend to downgrade after reporting the kernel panic.

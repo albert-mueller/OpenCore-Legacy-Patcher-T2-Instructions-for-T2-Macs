@@ -42,12 +42,10 @@ These instructions are for T2 Macs only. These instructions don't apply to non-T
 
 15. Choose EFI boot
 <img width="2100" height="1576" alt="IMG_0221" src="https://github.com/user-attachments/assets/1ad19aed-6b1e-4174-87c5-13db0dc02f40" />
-16. Select Install macOS Tahoe or the version of your choice
-<img width="2100" height="1576" alt="IMG_0222" src="https://github.com/user-attachments/assets/dded1c8d-f7c4-4d5d-947f-4025535ff5d3" />
-
 16. Click on space
 17. Using the arrow keys, select Reset NVRAM and hit Enter
 18. Now, the system will restart
 19. Now select Install macOS with the arrow keys and hit Enter
+<img width="2100" height="1576" alt="IMG_0222" src="https://github.com/user-attachments/assets/dded1c8d-f7c4-4d5d-947f-4025535ff5d3" />
 
 If you see a kernel panic or stall at the Apple logo, you should definately report what kernel panic appears or the stall here: https://github.com/albert-mueller/OpenCore-Legacy-Patcher-T2/issues or the affected repository if using a fork instead. And if you have already erased your drive, I recommend to downgrade after reporting the kernel panic.
